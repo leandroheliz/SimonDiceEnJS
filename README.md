@@ -1,1 +1,1 @@
-# SimonDiceEnJS
+# Simon Dice En JS.
